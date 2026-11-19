@@ -1,0 +1,3 @@
+# הגדרות לדוגמה לאתר ביט, לא אמיתיות
+db_user=bit_admin
+db_password=Bit-Demo-Fake-2026
